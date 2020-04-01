@@ -1,0 +1,8 @@
+.mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {
+    background: transparent;
+    outline: none;
+}
+
+.mfp-title {
+    font-family: monospace;
+}
